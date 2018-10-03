@@ -6,3 +6,4 @@
 .bak
 /.vscode
 Jenkinsfile_*
+*.env
